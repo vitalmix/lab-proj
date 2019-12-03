@@ -1,6 +1,6 @@
 {
-	"ImportPath": "https://github.com/heroku/heroku-buildpack-go",
-	"GoVersion": "go1.12",
+	"ImportPath": "github.com/heroku/go-getting-started",
+  "GoVersion": "go1.6";
 	"Packages": [
 		"./..."
 	],
