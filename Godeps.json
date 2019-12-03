@@ -1,5 +1,5 @@
 {
-	"ImportPath": "https://github.com/heroku/heroku-buildpack-go",
+	"ImportPath": "https://github.com/heroku/heroku-buildpack-go.git",
 	"GoVersion": "go1.12",
 	"Packages": [
 		"./..."
