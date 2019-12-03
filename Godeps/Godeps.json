@@ -1,9 +1,7 @@
 {
 	"ImportPath": "github.com/heroku/go-getting-started",
   "GoVersion": "go1.6",
-	
-	"ImportPath": "https://github.com/go-sql-driver/mysql",
-	"Version": "v1.4.0",
+
 	"Packages": [
 		"./..."
 	],
